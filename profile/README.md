@@ -1,12 +1,10 @@
-<img src="https://dtcglaciers.org/_static/ESA_logo.svg" alt="ESA logo" width="200">
+<img src="https://dtcglaciers.org/_static/ESA_logo.svg" alt="ESA logo" height="70"> <img src="https://dtcglaciers.org/_images/dtcg_dalle_small.jpg" alt="ESA logo"  height="120" align="right"> 
 
 ## A Digital Twin Component for Glaciers
 
 The DTC-Glaciers project is developed under the European Space Agency’s Digital Twin Earth initiative, as part of the Digital Twin Components (DTC) Early Development Actions.
 
 Visit [dtcglaciers.org](https://dtcglaciers.org) for more info.
-
-<img src="https://dtcglaciers.org/_images/dtcg_dalle_small.jpg" alt="ESA logo" width="400"> 
 
 
 <!--
