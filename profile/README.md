@@ -1,4 +1,4 @@
-<img src="https://dtcglaciers.org/_static/ESA_logo.svg" alt="ESA logo" height="70"> <img src="https://dtcglaciers.org/_images/dtcg_dalle_small.jpg" alt="ESA logo"  height="120" align="right"> 
+<img src="https://dtcglaciers.org/_images/esa-logo-png.png" alt="ESA logo" height="70"> <img src="https://dtcglaciers.org/_images/dtcg_dalle_small.jpg" alt="ESA logo"  height="120" align="right"> 
 
 ## A Digital Twin Component for Glaciers
 
